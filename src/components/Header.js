@@ -9,7 +9,7 @@ const Header = (props) => {
                         <span className="of">of </span>
                         <span className="the">the </span>
                     </span>
-                    of the day
+                     day
                 </h1>
                 <h3 className="tagline"><span>{props.tagline}</span></h3>
             </header>
